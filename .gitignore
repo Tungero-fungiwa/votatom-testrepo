@@ -22,4 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-!.\Class\
+!/Class/Auto.class
+!/Class/Click.class
+!/Class/Gui.class
+!/Class/Gui$1.class
+!/Class/Gui$2.class
+!/Class/Gui$3.class
+!/Class/Main.class
+!/Class/Player.class
+!/Class/Shop.class
